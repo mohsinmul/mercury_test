@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12989" started-at="2018-06-28T10:36:45Z" finished-at="2018-06-28T10:36:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12989" started-at="2018-06-28T10:36:45Z" finished-at="2018-06-28T10:36:58Z">
+      <class name="com.demoaut.mercurytours.TestCases.RegisterUserTest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.demoaut.mercurytours.TestCases.RegisterUserTest@204f30ec]" name="startReport" is-config="true" duration-ms="269" started-at="2018-06-28T16:06:45Z" finished-at="2018-06-28T16:06:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="openBrowserTest()[pri:0, instance:com.demoaut.mercurytours.TestCases.RegisterUserTest@204f30ec]" name="openBrowserTest" is-config="true" duration-ms="6857" started-at="2018-06-28T16:06:45Z" finished-at="2018-06-28T16:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserTest -->
+        <test-method status="PASS" signature="registerNewUser()[pri:0, instance:com.demoaut.mercurytours.TestCases.RegisterUserTest@204f30ec]" name="registerNewUser" duration-ms="5018" started-at="2018-06-28T16:06:52Z" description="This test will perform to register new user" finished-at="2018-06-28T16:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerNewUser -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoaut.mercurytours.TestCases.RegisterUserTest@204f30ec]" name="getResult" is-config="true" duration-ms="298" started-at="2018-06-28T16:06:57Z" finished-at="2018-06-28T16:06:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registerNewUser status=SUCCESS method=RegisterUserTest.registerNewUser()[pri:0, instance:com.demoaut.mercurytours.TestCases.RegisterUserTest@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="afterTestCheck()[pri:0, instance:com.demoaut.mercurytours.TestCases.RegisterUserTest@204f30ec]" name="afterTestCheck" is-config="true" duration-ms="532" started-at="2018-06-28T16:06:57Z" finished-at="2018-06-28T16:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCheck -->
+      </class> <!-- com.demoaut.mercurytours.TestCases.RegisterUserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
